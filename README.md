@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 2
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Amelia and Raha **
 
 ## Specification
 
@@ -18,7 +18,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**We are getting better at pushing and commiting**
 
 ## Honor Pledge
 
@@ -29,4 +29,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Amelia and Raha **
